@@ -43,3 +43,4 @@ void Stack::pop() {
  int Stack::top() {
     return _data[_top];
  }
+ 
